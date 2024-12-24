@@ -1,4 +1,5 @@
 # Crypto Wallet Hunter
+![image](https://github.com/user-attachments/assets/aebac2e9-ce82-45c1-9569-df5aafbb56fb)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
