@@ -1,4 +1,4 @@
-# Crypto Wallet Hunter
+# Crypto Wallet Hunter -  Seed Phrase Finder
 ![image](https://github.com/user-attachments/assets/aebac2e9-ce82-45c1-9569-df5aafbb56fb)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
