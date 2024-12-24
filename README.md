@@ -1,11 +1,12 @@
 # Crypto Wallet Hunter -   Seed Phrase Finder BTC, LTC, BNB, ETH + Telegram notification and multithreading
 ![image](https://github.com/user-attachments/assets/aebac2e9-ce82-45c1-9569-df5aafbb56fb)
-https://youtu.be/E5FmgrLKdaM
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Professional cryptocurrency wallet management tool with multi-threaded balance checking.
+
+https://youtu.be/E5FmgrLKdaM
 
 ## Download
 
